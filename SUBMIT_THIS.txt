@@ -1,0 +1,6 @@
+АРХИВ ПОДГОТОВЛЕН ДЛЯ ЗАГРУЗКИ В GITHUB / GITFLIC / ОБЛАЧНОЕ ХРАНИЛИЩЕ.
+
+Основная команда запуска:
+python run.py --input /path/to/images --output result.csv
+
+Перед официальной сдачей обязательно прочитать SUBMISSION_CHECKLIST.md.
