@@ -1,0 +1,8 @@
+START HERE
+==========
+
+Run START_DOWNLOAD_V3.cmd on Windows to fetch open-data candidates.
+
+Then review open_data\review_queue.csv and promote only verified rows.
+
+IMPORTANT: images with visible faces must be blurred or excluded before the final dataset is submitted.
